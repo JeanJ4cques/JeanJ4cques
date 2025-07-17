@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left">Olá, eu sou o Jean Jacques <br><br>- 🌱 Aprendendo: Big Data e Análise de Dados <br><br>- 📚 Formação:  Bacharelado em Relações Internacionais (UFSM), Pós  lato sensu em Big Data e Análise de Dados (Líbano, em andamento)<br><br>- 🤔 Interesse: Desenvolver projetos de análise de dados sobre processos internacionais. <br><br>- 🔍Pesquisa: Estou a desenvolver pesquisa científica analítica na Área de Estudos Estratégicos e Direito Internacional. <br><br>- ⚡ Hobbies: Gosto de Games e Esportes em geral, meu esporte favorito é skate. Quando eu encontro um game de skate eu entro em um looping de prazer.</p>
+<p align="left">Olá, eu sou o Jean Jacques <br><br>- 🌱 Aprendendo: Big Data e Análise de Dados <br><br>- 📚 Formação:  Bacharelado em Relações Internacionais (UFSM), Pós  lato sensu em Big Data e Análise de Dados (Líbano, em andamento)<br><br>- 🤔 Interesse: Desenvolver projetos de análise de dados sobre processos internacionais. <br><br>- 🔍Pesquisa: Estou a desenvolver pesquisa científica analítica na Área de Estudos Estratégicos e Direito Internacional. <br><br>- ⚡ Hobbies: Gosto de Games e Esportes em geral, meu esporte favorito é skate. </p>
 
 ###
 
